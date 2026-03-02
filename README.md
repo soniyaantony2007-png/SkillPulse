@@ -159,11 +159,10 @@ This is a full-stack iteration of SkillPulse AI with a Python FastAPI backend an
  
 #### Diagrams
 
-**Application Workflow:**
+**Application Workflow Video:**
 
-![Workflow](docs/workflow.png)
-*Add caption explaining your workflow*
-
+![Workflow](video.mp4)
+Workflow Video
 ---
 
 ## Additional Documentation
