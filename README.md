@@ -13,7 +13,7 @@
 - Member 2: Niranjana P A - Mar Baselios Christian College of Engineering and Technology, Kuttikkanam, Peermade, Idukki, Kerala
 
 ### Hosted Project Link
-[mention your project hosted link here]
+## [SkillPulse](https://skill-pulse-beryl.vercel.app/)
 
 ### Project Description
 SkillPulse is an AI-powered analytics platform designed to analyze job market data, detect emerging skill trends, forecast future demand, and identify skill gaps at an individual and regional level.
