@@ -146,17 +146,17 @@ This is a full-stack iteration of SkillPulse AI with a Python FastAPI backend an
 #### Screenshots (Add at least 3)
 
 ![Screenshot1](1.png)
-Login Screen
+[Login Screen](https://drive.google.com/file/d/11KL1xJstGJLXSifjrFkbznXINjN4WzOQ/view?usp=sharing)
 
 ![Screenshot2](2.png)
-Analytics Dashboard
+[Analytics Dashboard](https://drive.google.com/drive/folders/1Tr9v-CpHJb47JgVYv6rYlYwSK_ebKqdw?usp=sharing)
 
 ![Screenshot3](3.png)
-Ingest Data
+[Ingest Data](https://drive.google.com/drive/folders/1Tr9v-CpHJb47JgVYv6rYlYwSK_ebKqdw?usp=sharing)
 
 ![Screenshot4](4.png)
- Resume Analyzer
-
+[Resume Analyzer](https://drive.google.com/drive/folders/1Tr9v-CpHJb47JgVYv6rYlYwSK_ebKqdw?usp=sharing)
+ 
 #### Diagrams
 
 **Application Workflow:**
