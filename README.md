@@ -10,7 +10,7 @@
 
 ### Team Members
 - Member 1: Soniya Antony - Mar Baselios Christian College of Engineering and Technology, Kuttikkanam, Peermade, Idukki, Kerala
-- Member 2: Niranjana P A - Mar Baselios Christian College of Engineering and Technology, Kuttikkanam, Peermade, Idukki, Kerala
+- Member 2: Niranjana P A - Mar Baselios Christian College of Engineering and Technology, Kuttikkanam, Peermade, Idukki, Kerala.
 
 ### Hosted Project Link
 ## [SkillPulse](https://skill-pulse-beryl.vercel.app/)
