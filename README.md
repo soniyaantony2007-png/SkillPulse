@@ -175,11 +175,7 @@ Workflow Video
 
 ---
 
-## AI Tools Used (Optional - For Transparency Bonus)
-
-If you used AI tools during development, document them here for transparency:
-
-**Tool Used:** GitHub, ChatGPT, AntiGravity
+## Tool Used: GitHub, ChatGPT, AntiGravity
 
 **Purpose:** Made an app named SkillPulse
 
@@ -193,7 +189,7 @@ The entire application must be written in a single file: app.py.
 - Use react for the app need to be hosted
  
 
-**Percentage of AI-generated code:** Approximately 77%
+**Percentage of AI-generated code:** Approximately 47%
 
 **Human Contributions:**
 - Architecture design and planning
@@ -201,7 +197,6 @@ The entire application must be written in a single file: app.py.
 - Integration and testing
 - UI/UX design decisions
 
-*Note: Proper documentation of AI usage demonstrates transparency and earns bonus points in evaluation!*
 
 ---
 
